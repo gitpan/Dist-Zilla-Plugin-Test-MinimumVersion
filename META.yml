@@ -35,5 +35,6 @@ requires:
   warnings: 0
 resources:
   bugtracker: https://github.com/doherty/Dist-Zilla-Plugin-Test-MinimumVersion/issues
+  homepage: http://metacpan.org/release/Dist-Zilla-Plugin-Test-MinimumVersion/
   repository: git://github.com/doherty/Dist-Zilla-Plugin-Test-MinimumVersion.git
-version: v2.0.0
+version: 2.0.1

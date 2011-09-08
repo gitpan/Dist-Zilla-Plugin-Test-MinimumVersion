@@ -8,6 +8,7 @@ Makefile.PL
 README
 corpus/DZ1/dist.ini
 corpus/DZ1/lib/DZ1.pm
+dist.ini
 lib/Dist/Zilla/Plugin/MinimumVersionTests.pm
 lib/Dist/Zilla/Plugin/Test/MinimumVersion.pm
 t/00-compile.t
