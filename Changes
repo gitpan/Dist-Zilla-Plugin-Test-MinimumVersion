@@ -1,5 +1,9 @@
 Revision history for Perl extension Dist-Zilla-Plugin-Test-MinimumVersion
 
+2.000002  2012-06-16
+    - Declare Dist::Zilla dependency
+    - Use a decimal version number
+
 2.0.1     2011-09-07
     - Packaging updates
 
