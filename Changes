@@ -1,5 +1,9 @@
 Revision history for Perl extension Dist-Zilla-Plugin-Test-MinimumVersion
 
+2.000003  2013-03-02
+    - Add max_target_perl to control the maximum perl we're
+      okay with requiring explicitly [GH#1 - xdg++]
+
 2.000002  2012-06-16
     - Declare Dist::Zilla dependency
     - Use a decimal version number
