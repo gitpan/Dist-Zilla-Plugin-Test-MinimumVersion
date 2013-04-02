@@ -4,7 +4,7 @@ use warnings;
 
 package Dist::Zilla::Plugin::MinimumVersionTests;
 # ABSTRACT: Release tests for minimum required versions
-our $VERSION = '2.000003'; # VERSION
+our $VERSION = '2.000004'; # VERSION
 use Moose;
 extends 'Dist::Zilla::Plugin::Test::MinimumVersion';
 
@@ -29,7 +29,7 @@ Dist::Zilla::Plugin::MinimumVersionTests - Release tests for minimum required ve
 
 =head1 VERSION
 
-version 2.000003
+version 2.000004
 
 =head1 SYNOPSIS
 

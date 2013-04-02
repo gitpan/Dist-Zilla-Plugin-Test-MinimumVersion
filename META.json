@@ -5,7 +5,7 @@
       "Marcel Gr\u00c3\u00bcnauer <marcel@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300030, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Dist::Zilla version 4.300032, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -77,6 +77,6 @@
          "web" : "https://github.com/doherty/Dist-Zilla-Plugin-Test-MinimumVersion"
       }
    },
-   "version" : "2.000003"
+   "version" : "2.000004"
 }
 
