@@ -1,5 +1,8 @@
 Revision history for Perl extension Dist-Zilla-Plugin-Test-MinimumVersion
 
+2.000005  2013-05-18
+    - Allow tests to run in parallel [GH#3 - kentnl++]
+
 2.000004  2013-04-02
     - Fix spurious test failures with new deprecation warnings [GH#2]
 
